@@ -1,6 +1,6 @@
-# Jekyll GitHub Pages Site
+# Minimal Mistakes Jekyll Site
 
-This is a simple GitHub Pages site built with Jekyll using the default Minima theme.
+This is a simple GitHub Pages site built with Jekyll using the Minimal Mistakes theme.
 
 ## Setup
 
@@ -17,4 +17,8 @@ To use this site with GitHub Pages:
 1. Push this repository to GitHub.
 2. Go to your repository's Settings > Pages.
 3. Set the source to your main branch.
-4. Your site will be published at `https://username.github.io/repository-name/` 
+4. Your site will be published at `https://username.github.io/repository-name/`
+
+## Theme Information
+
+For detailed documentation on how to customize this theme, visit the [Minimal Mistakes documentation](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/). 
