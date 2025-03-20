@@ -1,9 +1,11 @@
-main:
-  - title: Domov
-    url: /
-  - title: O meni
-    url: /about/
-  - title: Zapisi
-    url: /posts/
-  - title: Kontakt
-    url: /contact/ 
+- title: Domov
+  url: /
+
+- title: O meni
+  url: /about/
+
+- title: Zapisi
+  url: /posts/
+
+- title: Kontakt
+  url: /contact/ 
