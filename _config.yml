@@ -1,30 +1,34 @@
-title: My GitHub Page
-description: A simple GitHub Pages site with Jekyll
-remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
-# Site Settings
-locale: "en-US"
-search: true
+title: Martin Repar
+description: Bioterapevt
+email: info@samorep.si
+author: Martin Repar
+baseurl: ""
+url: "https://samorep.si"
 
 # Build settings
+remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 markdown: kramdown
+paginate: 5
+paginate_path: "/posts/page:num/"
 plugins:
   - jekyll-feed
-  - jekyll-include-cache
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-relative-links
+  - jekyll-remote-theme
 
+# Clean Blog settings
+twitter_username: 
+github_username:  
+facebook_username: 
+instagram_username:  
+linkedin_username:
+
+# Google Analytics
+google_analytics: # your google analytics id
+
+# Include directories
 include:
   - _pages
-
-# Site Author
-author:
-  name: "Your Name"
-  bio: "A short bio about yourself."
-  location: "Location"
 
 # Defaults
 defaults:
@@ -33,15 +37,12 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
-      author_profile: true
-      read_time: true
-      share: true
-      related: true
+      layout: post
+      background: '/assets/img/bg-post.jpg'
   # _pages
   - scope:
       path: "_pages"
       type: pages
     values:
-      layout: single
-      author_profile: true 
+      layout: page
+      background: '/assets/img/bg-page.jpg' 

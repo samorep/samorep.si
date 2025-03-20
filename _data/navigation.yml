@@ -1,5 +1,9 @@
 main:
-  - title: "About"
+  - title: Domov
+    url: /
+  - title: O meni
     url: /about/
-  - title: "Posts"
-    url: /year-archive/ 
+  - title: Zapisi
+    url: /posts/
+  - title: Kontakt
+    url: /contact/ 

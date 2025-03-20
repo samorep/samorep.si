@@ -1,0 +1,59 @@
+---
+layout: page
+title: "Kontakt"
+description: "Vprašanja? V stiku sem z vami."
+permalink: /contact/
+background: '/assets/img/bg-contact.jpg'
+---
+
+<p>Če imate kakršno koli vprašanje ali želite rezervirati termin za terapijo, me lahko kontaktirate na spodnje načine.</p>
+
+<form name="sentMessage" id="contactForm" novalidate>
+  <div class="control-group">
+    <div class="form-group floating-label-form-group controls">
+      <label>Ime</label>
+      <input type="text" class="form-control" placeholder="Ime" id="name" required data-validation-required-message="Prosim vnesite svoje ime.">
+      <p class="help-block text-danger"></p>
+    </div>
+  </div>
+  <div class="control-group">
+    <div class="form-group floating-label-form-group controls">
+      <label>Email naslov</label>
+      <input type="email" class="form-control" placeholder="Email naslov" id="email" required data-validation-required-message="Prosim vnesite svoj email naslov.">
+      <p class="help-block text-danger"></p>
+    </div>
+  </div>
+  <div class="control-group">
+    <div class="form-group floating-label-form-group controls">
+      <label>Telefonska številka</label>
+      <input type="tel" class="form-control" placeholder="Telefonska številka" id="phone" required data-validation-required-message="Prosim vnesite svojo telefonsko številko.">
+      <p class="help-block text-danger"></p>
+    </div>
+  </div>
+  <div class="control-group">
+    <div class="form-group floating-label-form-group controls">
+      <label>Sporočilo</label>
+      <textarea rows="5" class="form-control" placeholder="Sporočilo" id="message" required data-validation-required-message="Prosim vnesite sporočilo."></textarea>
+      <p class="help-block text-danger"></p>
+    </div>
+  </div>
+  <br>
+  <div id="success"></div>
+  <div class="form-group">
+    <button type="submit" class="btn btn-primary" id="sendMessageButton">Pošlji</button>
+  </div>
+</form>
+
+## Kontaktni podatki
+
+**Email:** info@samorep.si
+
+**Telefon:** +386 XX XXX XXX
+
+**Lokacija:** Ljubljana, Slovenija
+
+## Delovni čas
+
+**Ponedeljek - Petek:** 9:00 - 18:00  
+**Sobota:** Po dogovoru  
+**Nedelja:** Zaprto 

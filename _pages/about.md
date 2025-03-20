@@ -1,12 +1,13 @@
 ---
-title: "About"
+layout: page
+title: "O meni"
+description: "Moja terapevtska pot"
 permalink: /about/
+background: '/assets/img/bg-about.jpg'
 ---
-
-## O meni:
 
 V preteklosti sem z različnimi metodami, ki jih uporabljam danes za pomoč drugim, sebi pomagal pri izhodu iz tesnobe, strahov in toksičnih odnosov. Metode kot so karmična diagnostika, meditacija, bioterapija, somatika so zelo učinkovita orodja v terapevtskem procesu. 
 
 Travme, neizražena čustva, škodljiva prepričanja in strahovi nas pogosto pripeljejo do zapiranja vase, nerazumevanja sebe in bežanja od svojih lastnih občutkov. Kar v telesu povzroča stres. V preteklosti smo kot otroci razvili podzavestne mehanizme, ki so nam koristili pri tem, da smo preživeli. Preživeli smo tako, da smo veliko občutkov potlačili. Težava nastane, ker veliko teh mehanizmov deluje še danes, v vsakdanjih situacijah, mi pa se jih ne zavedamo.Te mehanizmi nas vodijo v boleče odnose, odvisnosti, nezaupanje vase in življenje pod stresom. Skozi proces ustvarjanja varnega okolja, kjer lahko klient občuti in izrazi neizraženo, kjer ni potrebno skrivanje pred nikomer, vam omogočam, da raziskujete svoj notranji prostor ter odkrivate tisto kar vam škodi. Sam verjamem, da vsak človek v sebi nosi odgovore na vprašanja, ki so mu nejasna. Vendar jih zaradi mentalnih, energijskih in čustvenih blokad ne zmore odkriti. Podpora terapevta, ki popelje klienta v razširjeno stanje zavesti ter v stik z njegovo podzavestjo, je lahko v veliko pomoč pri iskanju teh odgovorov.
 
-Da pa lahko danes govorim o tem, je bilo potrebno resno delo na sebi. Prehoditi pot, ki ni bila lahka. Vendar, ko pogledam svoje življenje v tem trenutku, vidim, da je vredno.  Vedno me je zanimalo raziskovanje globjih ravni našega obstoja. Dejstvo, da obstaja samo to kar mi je vidno pred očmi, mi ni dalo globjega zadovoljstva. Ker v šoli in sistemu kot ga poznamo, nisem dobil odgovorov, kako naj si pomagam, kako izbrati pot, ki bi bila prava zame, kaj so te občutki, ki se zbujajo v meni in česa me učijo, sem pričel z iskanjem teh odgovorov skozi različne alternativne metode. Varno okolje za iskanje teh odgovorov znotraj mene, mi je omogočila šola za bioterapevte Neli Rep. Znanje in izkušnje, ki sem jih pridobil tekom triletnega šolanja, danes uporabljam v svoji terapevtski praksi. Po končanem šolanju sem se odločil, da je to pot, ki jo želim deliti tudi z ostalimi, ki so se znašli v podobni stiski kot sem se sam. 
+Da pa lahko danes govorim o tem, je bilo potrebno resno delo na sebi. Prehoditi pot, ki ni bila lahka. Vendar, ko pogledam svoje življenje v tem trenutku, vidim, da je vredno. Vedno me je zanimalo raziskovanje globjih ravni našega obstoja. Dejstvo, da obstaja samo to kar mi je vidno pred očmi, mi ni dalo globjega zadovoljstva. Ker v šoli in sistemu kot ga poznamo, nisem dobil odgovorov, kako naj si pomagam, kako izbrati pot, ki bi bila prava zame, kaj so te občutki, ki se zbujajo v meni in česa me učijo, sem pričel z iskanjem teh odgovorov skozi različne alternativne metode. Varno okolje za iskanje teh odgovorov znotraj mene, mi je omogočila šola za bioterapevte Neli Rep. Znanje in izkušnje, ki sem jih pridobil tekom triletnega šolanja, danes uporabljam v svoji terapevtski praksi. Po končanem šolanju sem se odločil, da je to pot, ki jo želim deliti tudi z ostalimi, ki so se znašli v podobni stiski kot sem se sam. 

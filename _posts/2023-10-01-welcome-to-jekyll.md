@@ -1,35 +1,26 @@
 ---
-title: "Welcome to Jekyll!"
+layout: post
+title: "Dobrodošli na Samorep.si"
+subtitle: "Začetek terapevtske poti"
 date: 2023-10-01
-categories:
-  - blog
-tags:
-  - jekyll
-  - update
+background: '/assets/img/bg-post.jpg'
 ---
 
-Welcome to Jekyll! This post shows a few different ways to add content.
+Dobrodošli na moji spletni strani! Tukaj bom delil svoje znanje in izkušnje s področja terapevtskega dela.
 
-## Adding Code
+## Kaj ponujam
 
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
+- Bioterapijo
+- Karmično diagnostiko
+- Meditacijo
+- Somatiko
 
-## Adding Images
+Te metode so zelo učinkovita orodja v terapevtskem procesu. Z njimi sem pomagal sebi in lahko pomagam tudi vam pri izhodu iz tesnobe, strahov in toksičnih odnosov.
 
-![image-title](https://via.placeholder.com/800x400)
+## Kako poteka srečanje
 
-## Adding Lists
+Vsako srečanje je prilagojeno vašim potrebam. Ustvarjam varno okolje, kjer lahko občutite in izrazite neizraženo, kjer ni potrebno skrivanje pred nikomer. To vam omogoča, da raziskujete svoj notranji prostor ter odkrivate tisto, kar vam škodi.
 
-* Item 1
-* Item 2
-* Item 3
+## Kontakt
 
-## Adding Links
-
-Check out the [Jekyll docs](https://jekyllrb.com/docs/) for more info. 
+Za več informacij ali rezervacijo termina me lahko kontaktirate preko elektronske pošte ali telefona. 
