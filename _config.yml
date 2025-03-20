@@ -5,13 +5,20 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale: "en-US"
-search: false
+search: true
 
 # Build settings
 markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-relative-links
+
+include:
+  - _pages
 
 # Site Author
 author:
