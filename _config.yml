@@ -1,0 +1,9 @@
+title: My GitHub Page
+description: A simple GitHub Pages site with Jekyll
+url: https://samorep.si
+baseurl: ""
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag 
