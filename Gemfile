@@ -5,10 +5,10 @@ source "https://rubygems.org"
 gem "minima", "~> 2.5"
 
 # Add the github-pages gem
-gem "github-pages", "~> 231", group: :jekyll_plugins
+gem "github-pages", "~> 232", group: :jekyll_plugins
 
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-feed", "~> 0.17"
   gem "jekyll-seo-tag", "~> 2.8"
 end
 
