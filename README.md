@@ -10,6 +10,16 @@ This is a simple GitHub Pages site built with Jekyll.
 4. Run `bundle exec jekyll serve` to start the local development server.
 5. Visit `http://localhost:4000` to view your site.
 
+## GitHub Pages Configuration
+
+To configure this site to work with GitHub Pages:
+
+1. Replace the `repository` value in `_config.yml` with your GitHub username/repository name.
+2. Push your repository to GitHub.
+3. Go to your repository's Settings > Pages.
+4. Set the source to your main branch.
+5. Wait a few minutes for your site to be built and deployed.
+
 ## Structure
 
 - `_config.yml`: Site configuration
@@ -19,9 +29,18 @@ This is a simple GitHub Pages site built with Jekyll.
 - `index.md`: Home page
 - `about.md`: About page
 
-## Deployment
+## Creating New Posts
 
-This site is designed to be deployed to GitHub Pages. Simply push your changes to the main branch, and GitHub will automatically build and deploy your site.
+Add new posts in the `_posts/` directory following the naming convention `YYYY-MM-DD-title.md`. Each post should have front matter at the top:
+
+```markdown
+---
+layout: post
+title: "Your Post Title"
+date: YYYY-MM-DD HH:MM:SS +0000
+categories: category1 category2
+---
+```
 
 ## Customization
 

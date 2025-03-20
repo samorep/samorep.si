@@ -1,7 +1,11 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.3.2"
+# Comment out the Jekyll gem as we'll use github-pages instead
+# gem "jekyll", "~> 4.3.2"
 gem "minima", "~> 2.5"
+
+# Add the github-pages gem
+gem "github-pages", "~> 231", group: :jekyll_plugins
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
